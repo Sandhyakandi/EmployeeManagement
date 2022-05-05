@@ -1,0 +1,11 @@
+
+.centered {
+    margin: 2rem auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .Login{
+    background-color:#0b445a;
+  }
